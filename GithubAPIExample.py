@@ -32,7 +32,7 @@ def login_to_github_with_token(token):
     print(response.text)
 
 # Replace 'TOKEN' with your actual GitHub access token
-token = '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'
+token = 'ghp_YT###############'
 
 login_to_github_with_token(token)
 
