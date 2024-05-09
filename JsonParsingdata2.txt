@@ -1,0 +1,29 @@
+{
+  "name": "Aleix Melon",
+  "id": "E00245",
+  "bankdetails": {
+    "accountNo": 1234,
+    "website": "yesbank.com"
+  },
+  "role": ["Dev","DBA"],
+  "age": 23,
+  "doj": "11-12-2019",
+  "married": false,
+  "address": [
+    {
+      "street": "cst",
+      "city": "Mumbai",
+      "country": "India"
+    },
+    {
+      "street": "statue of liberty",
+      "city": "Newyork",
+      "country": "USA"
+    },
+    {
+      "street": "MG Road",
+      "city": "Manchester",
+      "country": "UK"
+    }
+  ]
+}
